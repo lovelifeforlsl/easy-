@@ -1,0 +1,123 @@
+{
+    "type":[
+        {"title":"精选","type":"jingxuan"},
+        {"title":"青少年专区","type":"teenager"},
+        {"title":"新书","type":"newbook"},
+        {"title":"VIP","type":"vip"},
+        {"title":"免费","type":"freebook"},
+        {"title":"男频","type":"male"},
+        {"title":"女频","type":"female"},
+        {"title":"出版","type":"chuban"}
+    ],
+    "jingxuan":{
+        "sliderpic":[
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/583be49f98de4918a47ecab618b0dac6.jpg",
+                "id":0
+            },
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/bb2cc6ae6436405fa982c3b813870316.jpg",
+                "id":1
+            },
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/028722b4ac2144e48d427db909b35875.jpg",
+                "id":2
+            },
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/e978d7592ba44df5a07f94b291501909.jpg",
+                "id":3
+            },
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/6a01d6a91a2843c79eac6645de03ee32.jpg",
+                "id":4
+            },
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20190718/3f95918726994398bda126b882828850.jpg",
+                "id":5
+            }                
+        ],
+        "subprojec": [
+            {
+                "title":"分类",
+                "icon":"fenlei icon-fenlei"
+            },
+            {
+                "title":"排行",
+                "icon":"paihangbang icon-paihangbang" 
+            },
+            {
+                "title":"书单",
+                "icon":"books icon-books" 
+            },
+            {
+                "title":"大神红文",
+                "icon":"dashen icon-icon---copy" 
+            },
+            {
+                "title":"书荒",
+                "icon":"bangzhu icon-weibiaoti--" 
+            }       
+        ],
+        "mainsuggest":{
+            "title":"一周飙升",
+            "suggestypeid":"54d42d92321052167dfb75e3"
+        },
+        "paihang":true,
+        "subsuggest":[
+            {
+                "title":"本周爆款，人气热区",
+                "suggestypeid":"54d42d92321052167dfb75e3"
+            },
+            {
+                "title":"好评精选，日夜追读",
+                "suggestypeid":"5a684515fc84c2b8efaa9875"
+            },
+            {
+                "title":"男生必读，优选精品",
+                "suggestypeid":"564d8003aca44f4f61850fcd"
+            },
+            {
+                "title":"热血玄幻，王者归来",
+                "suggestypeid":"54d430962c12d3740e4a3ed2"
+            },
+            {
+                "title":"都市潜龙，艺术超能",
+                "suggestypeid":"5a6844f8fc84c2b8efaa8bc5"
+            }
+        ],
+        "littlesuggest":[
+            {
+                "title":"现情精品，老公我宣你！",
+                "suggestypeid":"54d42d92321052167dfb75e3"
+            },
+            {
+                "title":"古言精选，王爷，请接招~",
+                "suggestypeid":"54d42d92321052167dfb75e3"
+            }
+        ]
+    },
+    "teenager":{
+        "sliderpic":[
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/bb2cc6ae6436405fa982c3b813870316.jpg",
+                "id":0
+            },
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/6a01d6a91a2843c79eac6645de03ee32.jpg",
+                "id":1
+            },
+
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20191016/e978d7592ba44df5a07f94b291501909.jpg",
+                "id":2
+            },
+
+            {
+                "url":"http://plf-bucket.zhuishushenqi.com/management/images/20190718/3f95918726994398bda126b882828850.jpg",
+                "id":3
+            }                
+        ]
+                       
+        
+    }
+}
